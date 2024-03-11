@@ -15,5 +15,5 @@ class StudentsInMLOps:
         classname =  "StudentsInMLOps"
         return classname;
 
-# just to check again - trigger jenkins build again
+# just to check again - trigger jenkins build
 
